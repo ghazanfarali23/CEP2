@@ -11,7 +11,7 @@ An AWS FinOps dashboard with user authentication, AWS Cost Explorer integration,
 | Item | Link |
 |---|---|
 | Live App | http://44.204.153.21:8501 |
-| GitHub Repository | https://github.com/uaahacker/CEP2 |
+| GitHub Repository | https://github.com/ghazanfarali23/CEP2 |
 
 ---
 
@@ -80,7 +80,7 @@ CEP2/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/uaahacker/CEP2.git
+git clone https://github.com/ghazanfarali23/CEP2.git
 cd CEP2
 ```
 
@@ -150,6 +150,26 @@ The app uses a simple email/password system suitable for an academic demo:
 For a production system, this would be replaced with AWS Cognito or another managed identity provider.
 
 ---
+
+
+## Demo Credentials
+
+Use these credentials to log in without creating an account:
+
+| Field | Value |
+|---|---|
+| Email | `test@test.com` |
+| Password | `Test123@` |
+
+
+## Demo Credentials
+
+Use these credentials to log in without creating an account:
+
+| Field | Value |
+|---|---|
+| Email | `test@test.com` |
+| Password | `Test123@` |
 
 ## AWS Cost Explorer
 
